@@ -102,5 +102,5 @@ height:50px;
 
 @media screen and (min-width: 280px) and (max-width:1200px){
 nav{display:none;}
-main{border:none;}
+main{border-right:none;}
 
