@@ -99,6 +99,8 @@ td{
 width:150px;
 height:50px;
 }
-@media screen and (min-width: 240px) and (max-width:1024px){
-nav {display:none;}
+
+@media screen and (min-width: 280px) and (max-width:1200px){
+nav{display:none;}
+main{border:none;}
 
