@@ -100,5 +100,5 @@ width:150px;
 height:50px;
 }
 @media screen and (min-width: 480px) and (max-width:1024px){
-nav {display:none}
+nav {display:none;}
 
