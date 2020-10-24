@@ -109,8 +109,8 @@ position:absolute;
  .telNav li{display:none;}
 }
 @media screen and (min-width: 280px) and (max-width:1200px){
-nav{display:none;}
+#komp{display:none;}
 main{border-right:none;width:100%; height:50%;}
-tel
+
 }
 
