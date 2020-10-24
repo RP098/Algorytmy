@@ -51,7 +51,7 @@ font-size:50px;
 p{
 font-size:28px;
 }
-nav{
+#komp{
 float:left;
 width:37%;
 height:60%;
@@ -99,34 +99,18 @@ td{
 width:150px;
 height:50px;
 }
-
+.telNav li{float:left;
+ width:12em;
+float:top;
+font-size:15px;
+position:absolute;
+}
 @media screen and (min-width: 1200px){
-.telNav{display:none;}
+ .telNav li{display:none;}
 }
 @media screen and (min-width: 280px) and (max-width:1200px){
 nav{display:none;}
-.telNav{float:left;
-width:10%;
-height:60%;
-margin-bottom:7.5%;
-margin-top:7.5%;
-padding:2%;
-color:#F2F2E6;
-font-size: 17px;
+main{border-right:none;width:100%; height:50%;}
+tel
 }
-main{border-right:none;width:90%; height:60%;}
-ul, ul li{margin:0; padding:0;}
-#blok li{list-style:none;}
-#blok, #blok ul {width:40px;}
-#blok ul{
-position:absolute;
-top:0;
-left:160px;
-padding-left:1px;
-visibility:hidden;
-#blok li {padding-bottom:1px;position:relative;}
-#blok li:hover ul {visibility:visible;}
-#blok a, #blok li:hover li a{display:block;padding:0 10px; width:40px;}
 
-}
-}
